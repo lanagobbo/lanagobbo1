@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+div {
+    padding: 30px;
+    background-color: pink;
+    width: 400px;
+    display: table;
+	text-align: inherit;
+	vertical-align: middle;
+	align-content: center;
+	margin: auto
+}
+img {
+    vertical-align: middle;
+    display: table-cell;
+    margin:auto;
+}
+span {
+    vertical-align: middle;
+    display: table-cell;
+	align-content: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: #F4B5C2;
+	outline-color: #F87EA3;
+	background-color: #EE316A;
+}
+h1 {
+	align-content: center;
+	text-align: center;
+	color: #EE316A;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 28;
+	border: #EC5F61;
+}
+h2 {
+	align-content: center;
+	text-align: center;
+	color: #EE316A;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 28;
+	border: #EC5F61;
+}
+body {
+	background-image: url("../slike/fruits-apples-pattern-background-cartoons_24640-10457.jpg");
+}
+p {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: floralwhite;
+}
+
+a {
+	align-content: center;
+	text-align: center;
+	margin: auto;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: white;
+	
+	
+}
+	
